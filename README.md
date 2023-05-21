@@ -13,7 +13,7 @@
 - CSS
 
 ## Site
-[GitHub Pages](https://alan-oliveir.github.io/Playlist_MID_Music)
+[GitHub Pages](https://alan-oliveir.github.io/Pokemon_List/)
 
 ## Agredecimentos
 - Dev em Dobro: [GitHub](https://github.com/devemdobro) 

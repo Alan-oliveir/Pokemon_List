@@ -15,7 +15,7 @@
 ## Site
 [GitHub Pages](https://alan-oliveir.github.io/Pokemon_List/)
 
-## Agredecimentos
+## Agradecimentos
 - Dev em Dobro: [GitHub](https://github.com/devemdobro) 
 
 ## Redes Sociais 

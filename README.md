@@ -13,7 +13,7 @@
 - CSS
 
 ## Site
-[GitHub Pages](https://alan-oliveir.github.io/Pokemon_List/)
+[Pokemon List](https://alan-oliveir.github.io/Pokemon_List/)
 
 ## Agradecimentos
 - Dev em Dobro: [GitHub](https://github.com/devemdobro) 
